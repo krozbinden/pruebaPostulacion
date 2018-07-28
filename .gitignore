@@ -1,0 +1,7 @@
+# Archivos para no compilar
+target/
+.settings/
+
+.classpath
+.project
+
