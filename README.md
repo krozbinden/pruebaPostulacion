@@ -1,4 +1,4 @@
-# Prueba Postulacion
+# Info
 Para la parte 1, en los archivos .feature, las condiciones de datos de prueba se indican en los escenarios definidos.
 
 Para la parte 2, considerar que en el archivo .Java se deben editar los datos: usuario, password y busqueda, dado que las pruebas se realizaron con mi cuenta personal de Linkedin
